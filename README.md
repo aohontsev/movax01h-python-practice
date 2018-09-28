@@ -1,0 +1,1 @@
+Here are my own attempts to implement various programming tasks.
